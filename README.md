@@ -7,7 +7,7 @@ metadata:
   name: Amedeo Mignano
   location: Palermo, Sicily, Italy
 spec:
-  profesion: Full Stack Developer by Mind, Musician by Heart
+  profession: Full Stack Developer by Mind, Musician by Heart
   attributes:
     - Growth Mindset: Highly motivated for constant personal and professional growth.
     - Eagerness to Learn: Always seeking out and mastering new technologies, languages, and frameworks.
