@@ -1,7 +1,7 @@
 ## Hello 👋
 
 ```yaml
-apiVersion: v30
+apiVersion: v31
 kind: Human
 metadata:
   name: Amedeo Mignano
